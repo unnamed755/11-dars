@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none
+}
+.header{
+   background-image: url("./images/slider2\ 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1280px;
+  height: 500px;
+  background-position: right;
+
+}
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.header__ota{
+    display: flex;
+    gap: 300px;
+}
+.li__item{
+    color: white;
+    color: rgb(255, 255, 255);
+font-family: "Inter";
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+
+}
+.ul__item{
+    display: flex;
+    gap: 40px;
+}
+.h1{
+    color: white;
+    color: rgb(255, 255, 255);
+font-family: "Inter";
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+margin-top: 100px;
+width: 277px;
+height: 97px;
+}
+.header__btn{
+    background: rgb(118, 185, 0);
+width: 109px;
+height: 55px;
+margin-top: 160px;
+}
+.div__{
+    margin-right: 290px;
+}
+.btn{
+    margin-left: -280px;
+    display: flex;
+    width: 300px;
+    height: 50px;
+}
+.h1__main{
+    color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+margin-top: 41px;
+text-align: center;
+}
+.mini__karobka{
+    box-shadow: 0px 17px 27px -4px rgba(0, 0, 0, 0.25);
+background: rgb(255, 255, 255);
+margin-top: 109px;
+}
+.h3__karobka{
+    color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+}
+.text__main{
+    color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 14px;
+font-weight: 500;
+line-height: 17px;
+}
+.karobka{
+    display: flex;
+    background-repeat: no-repeat;
+    gap: 40px;
+}
+.img__text{
+    display: flex;
+    margin-top: 70px;
+   
+}
+.h2__main{
+    color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+text-align: center;
+margin-top: 40px;
+}
+.h2__section{
+    color: rgb(103, 185, 0);
+font-family: "Inter";
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+width: 416px;
+height: 116px;
+}
+.text__{
+    color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+width: 399px;
+height: 44px;
+}
+.main__btn{
+    background: rgb(118, 185, 0);
+    width: 233px;
+    height: 62px;
+}
+.div__biger{
+    display: flex;
+    gap: 40px;
+    margin-top: 69px;
+}
+.text__footer{
+    color: rgb(102, 102, 102);
+font-family: "Inter";
+font-size: 18px;
+font-weight: 800;
+line-height: 22px;
+width: 175px;
+height: 22px;
+
+}
+.footer__{
+    display: flex;
+    gap: 951px;
+}
+.footer{
+    margin-top: 70px;
+}
+.button_{
+    display: flex;
+}
